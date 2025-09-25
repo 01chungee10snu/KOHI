@@ -1,0 +1,22 @@
+# 로그 파일
+*.log
+
+# nul 파일
+nul
+
+# 임시 파일
+*.tmp
+*_temp.csv
+__pycache__/
+*.pyc
+
+# 스크린샷
+screenshots/
+
+# 개인정보가 포함될 수 있는 파일
+scraped_results.csv
+scraped_temp.csv
+scraped_ultimate_temp.csv
+scraped_final.csv
+scraped_ultimate_final.csv
+test_result.csv
